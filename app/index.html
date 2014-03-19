@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>CS 50 Leaderboard</title>
+
+  <!--<link href="semantic/packaged/css/semantic.min.css" rel="stylesheet" type="text/css"/>-->
+  <link rel="stylesheet" type="text/css" class="ui" href="semantic/packaged/css/semantic.css">
+  <link rel="stylesheet" type="text/css" class="ui" href="css/app.css"/>
+
+</head>
+
+<body id="example" class="progress" ng-app="app" ng-controller="LeaderBoardController" style>
+
+  <div class="masthead segment">
+    <div class="ui page grid">
+      <div class="column">
+        <div class="introduction">
+          <h1 class="ui link header" ng-click="baseCtrl.viewHome()">LaunchCode Lookup</h1>
+          <p></p>
+          <h2 class="ui header">Find anyone who knows anything</h2>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="ui huge icon input search" >
+    <input type="text" ng-model="searchText" placeholder="Search for anything...">
+    <i class="circular search icon"></i>
+  </div>
+
+  <div ng-repeat="photo in photos | filter:searchText">
+    <div class="container">
+      <img src='img/{{photo.photo}}'/>
+    </div>
+    <h1 style="margin-left: 250px; display: inline">{{photo.name}}</h1>
+    <div style="display: inline">{{photo.progress}}</div>
+    <h3 style="margin-left: 80px; display: inline">{{photo.project}}</h3>
+  </div>
+
+  <!-- In production use:
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script>
+  -->
+  <script type="text/javascript" src="lib/jquery/jquery.js"></script>
+
+  <!--These jspdf libs kind of scare me....-->
+  <script type="text/javascript" src="lib/lodash/lodash.js"></script>
+  <script type="text/javascript" src="lib/angular/angular.js"></script>
+  <script type="text/javascript" src="lib/angular/angular-ui-router.js"></script>
+  <script type="text/javascript" src="js/controllers.js"></script>
+
+    <script type="text/javascript" src="semantic/packaged/javascript/semantic.js"></script>
+    <script type="text/javascript" src="semantic/packaged/javascript/semantic.min.js"></script>
+</body>
+</html>

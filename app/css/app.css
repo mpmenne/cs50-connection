@@ -1,0 +1,366 @@
+/*******************************
+            Global
+*******************************/
+
+html,
+body {
+    font-size: 12px;
+    height: 100%;
+}
+
+body {
+    font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    background: #FFFFFF;
+    margin: 0px;
+    padding: 0px;
+    color: #555555;
+    text-rendering: optimizeLegibility;
+    min-width: 320px;
+}
+
+.ui.header {
+    font-family: 'Source Sans Pro', "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.overview .divided.grid .header + p {
+    min-height: 100px;
+}
+
+.imageHide {
+    display: none;
+}
+
+ .search {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centered {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.centermargins {
+    margin:0px auto;
+    width: 82%;
+}
+
+.hovered {
+    background-color: #add8e6;
+    opacity: .90;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+.selectediv {
+    background-color: orange;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+.cantsee {
+    display: none;
+}
+
+.sorry {
+    color: red;
+    display: block;
+}
+
+.orderreview {
+    margin:0px auto;
+    width: 65%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.red {
+    color: red;
+}
+
+.container {
+    width: 200px;
+    height: 120px;
+}
+
+/* resize images */
+.container img {
+    width: 100%;
+    height: auto;
+}
+
+/**
+* Semantic UI override
+*/
+.centerAlignedStep {
+    text-align: center;
+}
+
+/*******************************
+            Global
+*******************************/
+
+/*-------------------
+        Sidebar
+--------------------*/
+
+#feed .sidebar {
+    overflow: visible;
+}
+
+/*-------------------
+        Grid
+--------------------*/
+
+#feed .grid {
+    height: 100%;
+}
+
+#feed > .grid > .column {
+    height: 100%;
+}
+
+/*-------------------
+       Inbox
+--------------------*/
+
+#feed .inbox.tab {
+    background-color: #FFFFFF;
+}
+
+#feed .inbox.tab .item {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+#feed .inbox.tab .item .rating {
+    margin-top: 0.2rem;
+}
+
+#feed .inbox.tab .item .description {
+    margin-left: 2em;
+}
+
+#feed .page {
+    float: right;
+    margin-top: 0.9em;
+}
+
+#feed .middle.column {
+    padding: 1em 2em;
+}
+
+#feed .middle.column h2 {
+    margin-top: 0em;
+}
+
+#feed .right.column {
+    padding: 1em 2em;
+    background-color: #FAFAFA;
+}
+
+/*******************************
+          Responsive
+*******************************/
+
+@media only screen and (max-width : 1000px) {
+    #feed .inbox .date {
+        float: none;
+        margin-bottom: 0.5em;
+    }
+}
+
+@media only screen and (max-width : 1250px) {
+    #feed .left.column > .menu .item {
+        font-size: 1rem;
+    }
+}
+
+
+/*--------------
+    Items
+---------------*/
+
+#example.item .text.example .item {
+    min-height: 150px;
+}
+
+
+/*--------------
+    Masthead
+---------------*/
+#example .error.masthead {
+    position: absolute;
+    margin-top: -290px;
+    top: 50%;
+    width: 100%;
+}
+#example .error.masthead .container {
+    position: relative;
+    z-index: 100;
+}
+#example .masthead {
+    position: relative;
+    overflow: hidden;
+    background-color: #00B5AD;
+    text-align: center;
+    padding: 50px 0px;
+    color: rgba(255, 255, 255, 0.9);
+    margin-bottom: 0px;
+    border-bottom: none;
+}
+#example .masthead:before {
+    background: #00B5AD url(/images/tile-bg.png) repeat fixed 0% 0%;
+    position: absolute;
+    z-index: 1;
+    width: 500%;
+    height: 500%;
+    top: 0px;
+    left: 0px;
+    content: '';
+
+    -moz-transform-origin: 50% 50%;
+    -o-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+
+    -webkit-animation-name: masthead;
+    -moz-animation-name: masthead;
+    -o-animation-name: masthead;
+    animation-name: masthead;
+
+    -webkit-animation-duration: 80s;
+    -moz-animation-duration: 80s;
+    -ms-animation-duration: 80s;
+    -o-animation-duration: 80s;
+    animation-duration: 80s;
+
+    -webkit-animation-fill-mode: both;
+    -moz-animation-fill-mode: both;
+    -ms-animation-fill-mode: both;
+    -o-animation-fill-mode: both;
+    animation-fill-mode: both;
+
+    animation-timing-function: linear;
+    -webkit-animation-timing-function: linear;
+
+    -webkit-animation-iteration-count: infinite;
+    -moz-animation-iteration-count: infinite;
+    -ms-animation-iteration-count: infinite;
+    -o-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+}
+@keyframes masthead {
+    0% {
+        background-position: 0% 0%;
+    }
+    50% {
+        background-position: -50% -100%;
+    }
+    100% {
+        background-position: -100% -200%;
+    }
+
+}
+
+@-moz-keyframes masthead {
+    0% {
+        background-position: 0% 0%;
+    }
+    50% {
+        background-position: -50% -100%;
+    }
+    100% {
+        background-position: -100% -200%;
+    }
+
+}
+
+@-webkit-keyframes masthead {
+    0% {
+        background-position: 0% 0%;
+    }
+    50% {
+        background-position: -50% -100%;
+    }
+    100% {
+        background-position: -100% -200%;
+    }
+
+}
+
+@-ms-keyframes masthead {
+ 0% {
+   background-position: 0% 0%;
+ }
+ 50% {
+   background-position: -50% -100%;
+ }
+ 100% {
+   background-position: -100% -200%;
+ }
+
+}
+
+@-o-keyframes masthead {
+    0% {
+        background-position: 0% 0%;
+    }
+    50% {
+        background-position: -50% -100%;
+    }
+    100% {
+        background-position: -100% -200%;
+    }
+
+}
+#example .masthead .grid {
+    position: relative;
+    z-index: 2;
+}
+#example .masthead .column {
+    display: table;
+}
+#example .introduction {
+    display: table-cell;
+    vertical-align: top;
+    text-align: center;
+    width: 100%;
+}
+
+#example .masthead .labeled.button {
+    position: relative;
+    left: 0px;
+    top: 0px;
+    width: auto !important;
+    margin-right: 1em;
+}
+#example .masthead.segment h1 {
+    font-size: 5em;
+    color: #FFFFFF;
+    line-height: 1.2;
+    margin: -20px 0px 0px;
+    padding-bottom: 0px;
+}
+#example .masthead strike {
+    color: rgba(0, 0, 0, 0.2);
+}
+#example .masthead h2 {
+    font-weight: normal;
+    margin: -10px 0 16px 0px;
+    font-size: 1.75em;
+    border-bottom: none;
+    line-height: 1;
+}
+#example .masthead .menu {
+    width: 375px;
+}
+#example .masthead p {
+    font-size: 1.5em;
+    margin: 1em 0em 1.5em;
+    padding: 0px;
+}
