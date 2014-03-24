@@ -26,5 +26,6 @@
   {"name":"Sean Murphy", "location":"Library", "progress":"pset 7", "photo":"sean_murphy.jpg", "project":""},
   {"name":"Shareese Dawson", "location":"Library", "progress":"pset 3", "photo":"shareese_dawson.jpg", "project":""},
   {"name":"Shawn Jones", "location":"Library", "progress":"pset 5", "photo":"shawn_jones.jpg", "project":""},
-  {"name":"Steven Kantoni", "location":"Library", "progress":"pset 7", "photo":"steven_kantoni.jpg", "project":""}
+  {"name":"Steven Kantoni", "location":"Library", "progress":"pset 7", "photo":"steven_kantoni.jpg", "project":""},
+  {"name":"Ricky Ng", "location":"Soldier's Memorial", "progress":"mentor", "photo":"", "project":""}
 ]
