@@ -1,18 +1,10 @@
 language: node_js
 deploy:
-  - provider: s3
-    access_key_id: AKIAJBDK7QBVBHEKPFZQ
-    secret_access_key:
-      secure: IzGq0zh8/XPMw9LegskqCzmtrqdD9Qpp48sT6cDGbTWoSHv2uCDnpXwBzO1hOup5cwxy/M9L+zfbn+wMb+6WNWujCnIGKVDcytcaT3JYfIG8Zz/PKYft6s+GQ/UDmwnBRctNcYwc2Qve7ixgMTOwSZve47tXLpT4cY+uY9nAT2Y=
-    bucket: cs50connection.com
-    local-dir: app
-    on:
-      repo: MoMenne/cs50-connection
-  - provider: s3
-    access_key_id: AKIAJBDK7QBVBHEKPFZQ
-    secret_access_key:
-      secure: IzGq0zh8/XPMw9LegskqCzmtrqdD9Qpp48sT6cDGbTWoSHv2uCDnpXwBzO1hOup5cwxy/M9L+zfbn+wMb+6WNWujCnIGKVDcytcaT3JYfIG8Zz/PKYft6s+GQ/UDmwnBRctNcYwc2Qve7ixgMTOwSZve47tXLpT4cY+uY9nAT2Y=
-    bucket: cs50connection.com
-    local-dir: app
-    on:
-      repo: MoMenne/cs50-connection
+  provider: s3
+  access_key_id: AKIAI5ZUYPTNNULG7HYQ
+  secret_access_key:
+    secure: 4KoD3Q5RNuVLEC1j5g0VEGlMyQELMUOcTVNR/Pg20yZo6Mq8XVIB0BIdI4spBCyH/4OBgp9yzn3PGNkmNCqNdRjIDAY/ePsPZkCCYERgBMZwebX0035ZzGdcQN/QhgMdwPx36a8N3UdqDy+BWuxZu5sQiqNdrayffbgPV6LMLmE=
+  bucket: cs50connection
+  local-dir: app
+  on:
+    repo: MoMenne/cs50-connection
