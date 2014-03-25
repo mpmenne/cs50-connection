@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>CS 50 Leaderboard</title>
+  <title>CS 50 Lookup</title>
 
   <!--<link href="semantic/packaged/css/semantic.min.css" rel="stylesheet" type="text/css"/>-->
-  <link rel="stylesheet" type="text/css" class="ui" href="semantic/packaged/css/semantic.css">
   <link rel="stylesheet" type="text/css" class="ui" href="css/app.css"/>
+  <link rel="stylesheet" type="text/css" class="ui" href="semantic/packaged/css/semantic.css">
 
 </head>
 
@@ -24,6 +24,7 @@
     </div>
   </div>
 
+  <div class="labelInline">Total Launchcoders: <div class="totalInline">{{(photos | filter:searchText).length}}</div></div>
   <div class="ui huge icon input search" >
     <input type="text" ng-model="searchText" placeholder="Search for anything...">
     <i class="circular search icon"></i>
@@ -33,9 +34,9 @@
     <div class="container">
       <img src='img/{{photo.photo}}'/>
     </div>
-    <h1 style="margin-left: 250px; display: inline">{{photo.name}}</h1>
-    <div style="display: inline">{{photo.progress}}</div>
-    <h3 style="margin-left: 80px; display: inline">{{photo.project}}</h3>
+    <h1 class="studentName">{{photo.name}}</h1>
+    <div class="progress">{{photo.progress}}</div>
+    <h3 class="project">{{photo.project}}</h3>
   </div>
 
   <!-- In production use:

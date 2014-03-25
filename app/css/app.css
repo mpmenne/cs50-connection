@@ -18,6 +18,33 @@ body {
     min-width: 320px;
 }
 
+/* LaunchCode */
+.studentName {
+    margin-left: 250px;
+    display: inline;
+}
+
+.progress {
+    display: inline;
+}
+
+.project {
+    margin-left: 80px;
+    display: inline;
+}
+
+.labelInline {
+    width: 40%;
+    text-align: center;
+    margin-left: 400px;
+}
+
+.totalInline {
+    padding-left: 20px;
+    display: inline;
+    font-weight: bold;
+}
+
 .ui.header {
     font-family: 'Source Sans Pro', "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
