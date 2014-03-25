@@ -1,6 +1,10 @@
-CS50 Lookup
-=============
+cs50-connection
+==========
 
-A directory of everyone participating in CS50x and what they are working on.
+Simple web app that let's us see who is in CS50
 
-Fork the repository and generated a pull requrest to update the directory data in the rest/people.json file.  Be sure to also add you image to the /img directory
+The live web app is deployed at the following URL.  All commits will be instantly published thanks to travis CI
+http://cs50connection.com.s3-website-us-east-1.amazonaws.com
+
+Here is a video on how to do the pull request
+http://youtu.be/VlCnGSJiw9g
