@@ -1,11 +1,11 @@
 [
   {"name":"Sam Campione", "location":"Library", "progress":"pset 5", "photo":"sam_campione.JPG", "project":""},
   {"name":"Aaron", "location":"Library", "progress":"pset 1", "photo":"aaron.JPG", "project":""},
-  {"name":"Dave", "location":"Soldiers", "progress":"pset 5", "photo":"dave.JPG", "project":""},
-  {"name":"I forgot Sorry!!!", "location":"Soldiers", "progress":"?", "photo":"iforgot.JPG", "project":""},
-  {"name":"Dan Logan", "location":"Soldiers", "progress":"pset 1", "photo":"dan_logan.JPG", "project":"Java"},
-  {"name":"Samimah Sabih", "location":"Soldiers", "progress":"pset 3", "photo":"samimah_sabih.JPG", "project":"iOS"},
-  {"name":"Alli Labaal", "location":"Soldiers", "progress":"pset 4", "photo":"alli_labaal.JPG", "project":"iOS"},
+  {"name":"Dave", "location":"Soldiers", "progress":"pset 5", "photo":"dave.jpg", "project":""},
+  {"name":"I forgot Sorry!!!", "location":"Soldiers", "progress":"?", "photo":"iforgot.jpg", "project":""},
+  {"name":"Dan Logan", "location":"Soldiers", "progress":"pset 1", "photo":"dan_logan.jpg", "project":"Java"},
+  {"name":"Samimah Sabih", "location":"Soldiers", "progress":"pset 3", "photo":"samimah_sabih.jpg", "project":"iOS"},
+  {"name":"Alli Labaal", "location":"Soldiers", "progress":"pset 4", "photo":"alli_labaal.jpg", "project":"iOS"},
   {"name":"Ben Albritton", "location":"Library", "progress":"pset 5 and pset 7", "photo":"ben_albritton.JPG", "project":"Java"},
   {"name":"Brad Salter", "location":"Library", "progress":"pset 6", "photo":"brad_salter.JPG", "project":""},
   {"name":"Brian Pilch", "location":"Library", "progress":"pset 4", "photo":"brian_pilch.JPG", "project":""},
@@ -56,6 +56,6 @@
   {"name":"Sean Snyder", "location":"Library", "progress":"pset 6", "photo":"sean_snyder.jpg", "project":"Java"},
   {"name":"Keegan Myers", "location":"Library", "progress":"pset 37", "photo":"keegan_myers.JPG", "project":"Everything"},
   {"name":"Ricky Ng", "location":"Soldier's Memorial", "progress":"mentor", "photo":"", "project":""},
-  {"name":"test user", "location":"Soldiers", "progress":"test", "photo":"test_user.jpg", "project":""}
+  {"name":"Cookie Monster", "location":"Soldiers", "progress":"test", "photo":"test_user.jpg", "project":"cookies"}
 ]
 
