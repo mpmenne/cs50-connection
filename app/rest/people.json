@@ -55,7 +55,7 @@
   {"name":"Ben Venker", "location":"Library", "progress":"pset 6", "photo":"ben_venker.jpg", "project":"Javascript, meteor.js"},
   {"name":"Sean Snyder", "location":"Library", "progress":"pset 6", "photo":"sean_snyder.jpg", "project":"Java"},
   {"name":"Keegan Myers", "location":"Library", "progress":"pset 37", "photo":"keegan_myers.JPG", "project":"Everything"},
-  {"name":"Ricky Ng", "location":"Soldier's Memorial", "progress":"mentor", "photo":"", "project":""}
+  {"name":"Ricky Ng", "location":"Soldier's Memorial", "progress":"mentor", "photo":"", "project":""},
   {"name":"test user", "location":"Soldiers", "progress":"test", "photo":"test_user.jpg", "project":""}
 ]
 
