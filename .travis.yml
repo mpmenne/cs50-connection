@@ -3,8 +3,8 @@ deploy:
   provider: s3
   access_key_id: AKIAI5ZUYPTNNULG7HYQ
   secret_access_key:
-    secure: 4KoD3Q5RNuVLEC1j5g0VEGlMyQELMUOcTVNR/Pg20yZo6Mq8XVIB0BIdI4spBCyH/4OBgp9yzn3PGNkmNCqNdRjIDAY/ePsPZkCCYERgBMZwebX0035ZzGdcQN/QhgMdwPx36a8N3UdqDy+BWuxZu5sQiqNdrayffbgPV6LMLmE=
-  bucket: cs50connection
+    secure: qkFlPYe9Cpa5ia01JU+pmMFLjAbDuLVyn2EaK3pWDmFzprK4zPyzLUeVLyT+rKFtUt82lAje3OQpKxytleNPu43/Co24w8tU8qgID4R21rwIIA9EtvUqHXhisYyhpYHA+w5qikunENmZsWn0u4DC35bx4AH1qW5ze5dJNcsPme8=
+  bucket: cs50connection.com
   local-dir: app
   on:
     repo: MoMenne/cs50-connection
