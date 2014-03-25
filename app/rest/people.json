@@ -1,6 +1,7 @@
 [
   {"name":"Sam Campione", "location":"Library", "progress":"pset 5", "photo":"sam_campione.jpg", "project":""},
   {"name":"Aaron", "location":"Library", "progress":"pset 1", "photo":"aaron.jpg", "project":""},
+  {"name":"Dave", "location":"Soldiers", "progress":"pset 5", "photo":"", "project":""},
   {"name":"Ben Albritton", "location":"Library", "progress":"pset 5 and pset 7", "photo":"ben_albritton.jpg", "project":"Java"},
   {"name":"Brad Salter", "location":"Library", "progress":"pset 6", "photo":"brad_salter.jpg", "project":""},
   {"name":"Brian Pilch", "location":"Library", "progress":"pset 4", "photo":"brian_pilch.jpg", "project":""},
@@ -50,4 +51,6 @@
   {"name":"Ben Venker", "location":"Library", "progress":"pset 6", "photo":"ben_venker.jpg", "project":"Javascript, meteor.js"},
   {"name":"Sean Snyder", "location":"Library", "progress":"pset 6", "photo":"sean_snyder.jpg", "project":"Java"},
   {"name":"Keegan Myers", "location":"Library", "progress":"pset 37", "photo":"keegan_myers.jpg", "project":"Everything"}
+  {"name":"Ricky Ng", "location":"Soldier's Memorial", "progress":"mentor", "photo":"", "project":""}
 ]
+
