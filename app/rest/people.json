@@ -56,6 +56,7 @@
   {"name":"Sean Snyder", "location":"Library", "progress":"pset 6", "photo":"sean_snyder.jpg", "project":"Java"},
   {"name":"Keegan Myers", "location":"Library", "progress":"pset 37", "photo":"keegan_myers.JPG", "project":"Everything"},
   {"name":"Ricky Ng", "location":"Soldier's Memorial", "progress":"mentor", "photo":"", "project":""},
-  {"name":"Cookie Monster", "location":"Soldiers", "progress":"test", "photo":"test_user.jpg", "project":"cookies"}
+  {"name":"Cookie Monster", "location":"Soldiers", "progress":"test", "photo":"test_user.jpg", "project":"cookies"},
+  {"name":"Robert Clark", "location":"Soldier's Memorial", "progress":"pset7", "photo":"robc.jpg", "project":"?? LeaderBoard" }
 ]
 
