@@ -2,6 +2,7 @@
   {"name":"Sam Campione", "location":"Library", "progress":"pset 5", "photo":"sam_campione.JPG", "project":""},
   {"name":"Aaron", "location":"Library", "progress":"pset 1", "photo":"aaron.JPG", "project":""},
   {"name":"Dave", "location":"Soldiers", "progress":"pset 5", "photo":"dave.JPG", "project":""},
+  {"name":"I forgot Sorry!!!", "location":"Soldiers", "progress":"?", "photo":"iforgot.JPG", "project":""},
   {"name":"Dan Logan", "location":"Soldiers", "progress":"pset 1", "photo":"dan_logan.JPG", "project":"Java"},
   {"name":"Samimah Sabih", "location":"Soldiers", "progress":"pset 3", "photo":"samimah_sabih.JPG", "project":"iOS"},
   {"name":"Alli Labaal", "location":"Soldiers", "progress":"pset 4", "photo":"alli_labaal.JPG", "project":"iOS"},
