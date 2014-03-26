@@ -1,11 +1,10 @@
 [
   {"name":"Sam Campione", "location":"Library", "progress":"pset 5", "photo":"sam_campione.JPG", "project":""},
   {"name":"Aaron", "location":"Library", "progress":"pset 1", "photo":"aaron.JPG", "project":""},
-  {"name":"Dave", "location":"Soldiers", "progress":"pset 5", "photo":"dave.jpg", "project":""},
-  {"name":"I forgot Sorry!!!", "location":"Soldiers", "progress":"?", "photo":"iforgot.jpg", "project":""},
-  {"name":"Dan Logan", "location":"Soldiers", "progress":"pset 1", "photo":"dan_logan.jpg", "project":"Java"},
-  {"name":"Samimah Sabih", "location":"Soldiers", "progress":"pset 3", "photo":"samimah_sabih.jpg", "project":"iOS"},
-  {"name":"Alli Labaal", "location":"Soldiers", "progress":"pset 4", "photo":"alli_labaal.jpg", "project":"iOS"},
+  {"name":"Dave", "location":"Soldiers", "progress":"pset 5", "photo":"dave.JPG", "project":""},
+  {"name":"Dan Logan", "location":"Soldiers", "progress":"pset 1", "photo":"dan_logan.JPG", "project":"Java"},
+  {"name":"Samimah Sabih", "location":"Soldiers", "progress":"pset 3", "photo":"samimah_sabih.JPG", "project":"iOS"},
+  {"name":"Alli Labaal", "location":"Soldiers", "progress":"pset 4", "photo":"alli_labaal.JPG", "project":"iOS"},
   {"name":"Ben Albritton", "location":"Library", "progress":"pset 5 and pset 7", "photo":"ben_albritton.JPG", "project":"Java"},
   {"name":"Brad Salter", "location":"Library", "progress":"pset 6", "photo":"brad_salter.JPG", "project":""},
   {"name":"Brian Pilch", "location":"Library", "progress":"pset 4", "photo":"brian_pilch.JPG", "project":""},
@@ -35,7 +34,7 @@
   {"name":"Michael King", "location":"Library", "progress":"pset 7", "photo":"michael_king.jpg", "project":""},
   {"name":"Joe Shwartz", "location":"Library", "progress":"Library/Author", "photo":"joe_schwartz.jpg", "project":"A Season Without Rain"},
   {"name":"Joe Million", "location":"Library", "progress":"pset 7", "photo":"joe_million.jpg", "project":"iOS"},
-  {"name":"Brian Giaraffa", "location":"Library", "progress":"pset 8", "photo":"brian_giaraffa.jpg", "project":"C"},
+  {"name":"Brian Giarafa", "location":"Library", "progress":"pset 7", "photo":"brian_giarafa.jpg", "project":""},
   {"name":"Jesse Levine", "location":"Library", "progress":"pset 5", "photo":"jesse_levine.jpg", "project":"iOS"},
   {"name":"Mark Sims", "location":"Library", "progress":"pset 7", "photo":"mark_sims.jpg", "project":"OpenStreetMap, web"},
   {"name":"Nick Abbott", "location":"Soldiers", "progress":"pset 4", "photo":"nick_abbott.jpg", "project":"Java, Movie Rental App"},
@@ -50,13 +49,11 @@
   {"name":"Joe Price", "location":"Library", "progress":"pset 5", "photo":"joe_price.jpg", "project":""},
   {"name":"Caleb Rush", "location":"Library", "progress":"pset 4", "photo":"caleb_rush.jpg", "project":"iOS"},
   {"name":"Jeff W", "location":"Library", "progress":"pset 2", "photo":"jeff_w.jpg", "project":""},
-  {"name":"Bill Dechand", "location":"Library", "progress":"pset 4", "photo":"bill_dechand.jpg", "project":""},
   {"name":"Marvin Parke", "location":"Library", "progress":"pset 5", "photo":"marvin_parke.jpg", "project":"Javascript, php, Github"},
   {"name":"Ben Venker", "location":"Library", "progress":"pset 6", "photo":"ben_venker.jpg", "project":"Javascript, meteor.js"},
   {"name":"Sean Snyder", "location":"Library", "progress":"pset 6", "photo":"sean_snyder.jpg", "project":"Java"},
   {"name":"Keegan Myers", "location":"Library", "progress":"pset 37", "photo":"keegan_myers.JPG", "project":"Everything"},
-  {"name":"Ricky Ng", "location":"Soldier's Memorial", "progress":"mentor", "photo":"", "project":""},
-  {"name":"Cookie Monster", "location":"Soldiers", "progress":"test", "photo":"test_user.jpg", "project":"cookies"},
-  {"name":"Robert Clark", "location":"Soldier's Memorial", "progress":"pset7", "photo":"robc.jpg", "project":"?? LeaderBoard" }
+  {"name":"Ricky Ng", "location":"Soldier's Memorial", "progress":"mentor", "photo":"", "project":""}
+  {"name":"test user", "location":"Soldiers", "progress":"test", "photo":"test_user.jpg", "project":""}
+  {"name":"Bryon Urban", "location":"Library", "progress":"pset 8 & Final Project", "photo":"bryon_urban.jpg","project":"Objective-C, Javascript, C++"}
 ]
-
