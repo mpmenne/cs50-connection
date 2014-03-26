@@ -49,12 +49,11 @@
   {"name":"Joe Price", "location":"Library", "progress":"pset 5", "photo":"joe_price.jpg", "project":""},
   {"name":"Caleb Rush", "location":"Library", "progress":"pset 4", "photo":"caleb_rush.jpg", "project":"iOS"},
   {"name":"Jeff W", "location":"Library", "progress":"pset 2", "photo":"jeff_w.jpg", "project":""},
-  {"name":"Bill Dechand", "location":"Library", "progress":"pset 4", "photo":"bill_dechand.jpg", "project":""},
   {"name":"Marvin Parke", "location":"Library", "progress":"pset 5", "photo":"marvin_parke.jpg", "project":"Javascript, php, Github"},
   {"name":"Ben Venker", "location":"Library", "progress":"pset 6", "photo":"ben_venker.jpg", "project":"Javascript, meteor.js"},
   {"name":"Sean Snyder", "location":"Library", "progress":"pset 6", "photo":"sean_snyder.jpg", "project":"Java"},
   {"name":"Keegan Myers", "location":"Library", "progress":"pset 37", "photo":"keegan_myers.JPG", "project":"Everything"},
   {"name":"Ricky Ng", "location":"Soldier's Memorial", "progress":"mentor", "photo":"", "project":""}
   {"name":"test user", "location":"Soldiers", "progress":"test", "photo":"test_user.jpg", "project":""}
+  {"name":"Bryon Urban", "location":"Library", "progress":"pset 8 & Final Project", "photo":"bryon_urban.jpg","project":"Objective-C, Javascript, C++"}
 ]
-
