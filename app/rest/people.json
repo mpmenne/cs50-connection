@@ -59,6 +59,6 @@
   {"name":"Ricky Ng", "location":"Soldier's Memorial", "progress":"mentor", "photo":"", "project":""},
   {"name":"Cookie Monster", "location":"Soldiers", "progress":"test", "photo":"test_user.jpg", "project":"cookies"},
   {"name":"Robert Clark", "location":"Soldier's Memorial", "progress":"pset7", "photo":"robc.jpg", "project":"?? LeaderBoard" },
-  {"name":"Dana Wanner", "loation":"Library", "progress": "finished pset7", "photo":"dana_wanner.jpg", "project":""
+  {"name":"Dana Wanner", "loation":"Library", "progress": "finished pset7", "photo":"dana_wanner.jpg", "project":""}
 ]
 
