@@ -11,3 +11,6 @@ http://youtu.be/VlCnGSJiw9g
 
 Everyone can check the build status on the Travis CI site
 https://travis-ci.org/MoMenne/cs50-connection
+
+Be sure to compress your picture before uploading it!
+http://www.smushit.com/ysmush.it/
