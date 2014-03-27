@@ -30,7 +30,7 @@
     <i class="circular search icon"></i>
   </div>
 
-  <div ng-repeat="photo in photos | filter:searchText">
+  <div ng-repeat="photo in photos | filter:searchText | orderBy:random">
     <div class="container">
       <img src='img/{{photo.photo}}'/>
     </div>
