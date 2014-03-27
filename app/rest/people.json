@@ -36,7 +36,7 @@
   {"name":"Michael King", "location":"Library", "progress":"pset 7", "photo":"michael_king.jpg", "project":""},
   {"name":"Joe Shwartz", "location":"Library", "progress":"Library/Author", "photo":"joe_schwartz.jpg", "project":"A Season Without Rain"},
   {"name":"Joe Million", "location":"Library", "progress":"pset 7", "photo":"joe_million.jpg", "project":"iOS"},
-  {"name":"Brian Giaraffa", "location":"Library", "progress":"pset 8", "photo":"brian_giaraffa.jpg", "project":"C"},
+  {"name":"Brian Giaraffa", "location":"Library", "progress":"Final Project", "photo":"brian_giaraffa.jpg", "project":"C"},
   {"name":"Jesse Levine", "location":"Library", "progress":"pset 5", "photo":"jesse_levine.jpg", "project":"iOS"},
   {"name":"Mark Sims", "location":"Library", "progress":"pset 7", "photo":"mark_sims.jpg", "project":"OpenStreetMap, web"},
   {"name":"Nick Abbott", "location":"Soldiers", "progress":"pset 4", "photo":"nick_abbott.jpg", "project":"Java, Movie Rental App"},
