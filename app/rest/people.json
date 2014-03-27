@@ -59,6 +59,19 @@
   {"name":"Ricky Ng", "location":"Soldier's Memorial", "progress":"mentor", "photo":"", "project":""},
   {"name":"Cookie Monster", "location":"Soldiers", "progress":"test", "photo":"test_user.jpg", "project":"cookies"},
   {"name":"Robert Clark", "location":"Soldier's Memorial", "progress":"pset7", "photo":"robc.jpg", "project":"?? LeaderBoard" },
-  {"name":"Dana Wanner", "loation":"Library", "progress": "finished pset7", "photo":"dana_wanner.jpg", "project":""}
+  {"name":"Dana Wanner", "loation":"Library", "progress": "finished pset7", "photo":"dana_wanner.jpg", "project":""},
+  {"name":"Dave Williams", "loation":"Library", "progress": "pset 5", "photo":"dave_williams.jpg", "project":""},
+  {"name":"Elizabeth Carretto", "loation":"Library", "progress": "pset 7", "photo":"elizabeth_carretto.jpg", "project":""},
+  {"name":"Chad Meece", "loation":"Library", "progress": "pset 5", "photo":"chad_meece.jpg", "project":""},
+  {"name":"Paul Defino", "loation":"Library", "progress": "", "photo":"paul_defino.jpg", "project":"Python"},
+  {"name":"Charles Mountford", "loation":"Library", "progress": "pset 5, 6, 7", "photo":"charles_mountford.jpg", "project":"Python"},
+  {"name":"Kimberly Mirkes", "loation":"Library", "progress": "pset 8", "photo":"kimberly_mirkes.jpg", "project":"Java"},
+  {"name":"Debbie Caldwell-Miller", "loation":"Library", "progress": "pset 8, Final", "photo":"debbie_caldwell_miller.jpg", "project":"Java"},
+  {"name":"Austin Banks", "loation":"Library", "progress": "pset 7", "photo":"austin_banks.jpg", "project":"Web, Mobile, CSS"},
+  {"name":"Pablo", "loation":"Library", "progress": "pset 8, Final", "photo":"pablo.jpg", "project":"Mobile, Metrolink"},
+  {"name":"Heather Jons", "loation":"Library", "progress": "pset 2", "photo":"heather_jones.jpg", "project":""},
+  {"name":"Tim Joeckel", "loation":"Library", "progress": "pset 4", "photo":"tim_joeckel.jpg", "project":""},
+  {"name":"Jocelyn Perry", "loation":"Library", "progress": "pset 4", "photo":"jocelyn_perry.jpg", "project":""},
+  {"name":"Oliver Perry Jr.", "loation":"Library", "progress": "pset 3", "photo":"oliver_fultz_jr.jpg", "project":"Java, Php"}
 ]
 
