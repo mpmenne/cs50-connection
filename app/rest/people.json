@@ -20,7 +20,7 @@
   {"name":"Josh Kroll", "location":"Library", "progress":"pset 5", "photo":"josh_kroll.JPG", "project":"Arduino"},
   {"name":"Lexi", "location":"Library", "progress":"pset 4", "photo":"lexi.JPG", "project":""},
   {"name":"Luke Hegebe", "location":"Library", "progress":"pset 6", "photo":"luke_hegebe.JPG", "project":""},
-  {"name":"Marc Braun", "location":"Library", "progress":"pset 1", "photo":"marc_braun.JPG", "project":""},
+  {"name":"Marc Braun", "location":"Library", "progress":"pset 1; learning gitHub", "photo":"marc_braun.JPG", "project":""},
   {"name":"Mary Beth", "location":"Library", "progress":"pset 3", "photo":"mary_beth.JPG", "project":""},
   {"name":"Mike Belfield", "location":"Library", "progress":"pset 5", "photo":"mike_belfield.JPG", "project":""},
   {"name":"Mike Menne", "location":"Library", "progress":"pset 4", "photo":"mike_menne.jpg", "project":""},
