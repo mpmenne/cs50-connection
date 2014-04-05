@@ -72,6 +72,8 @@
   {"name":"Heather Jons", "loation":"Library", "progress": "pset 2", "photo":"heather_jones.jpg", "project":""},
   {"name":"Tim Joeckel", "loation":"Library", "progress": "pset 4", "photo":"tim_joeckel.jpg", "project":""},
   {"name":"Jocelyn Perry", "loation":"Library", "progress": "pset 4", "photo":"jocelyn_perry.jpg", "project":""},
-  {"name":"Oliver Perry Jr.", "loation":"Library", "progress": "pset 3", "photo":"oliver_fultz_jr.jpg", "project":"Java, Php"}
+  {"name":"Oliver Perry Jr.", "loation":"Library", "progress": "pset 3", "photo":"oliver_fultz_jr.jpg", "project":"Java, Php"},
+  {"name":"Vince Ganov", "loation":"Library", "progress": "pset 8", "photo":"vince_ganov.jpg", "project":""},
+  {"name":"Chris Hinds", "loation":"Library", "progress": "Final Project", "photo":"chris_hinds.jpg", "project":""}
 ]
 
