@@ -39,7 +39,7 @@
   {"name":"Brian Giaraffa", "location":"Library", "progress":"Final Project", "photo":"brian_giaraffa.jpg", "project":"Ruby on Rails, Supply Chain MRP"},
   {"name":"Jesse Levine", "location":"Library", "progress":"pset 5", "photo":"jesse_levine.jpg", "project":"iOS"},
   {"name":"Mark Sims", "location":"Library", "progress":"pset 7", "photo":"mark_sims.jpg", "project":"OpenStreetMap, web"},
-  {"name":"Nick Abbott", "location":"Soldiers", "progress":"pset 4", "photo":"nick_abbott.jpg", "project":"Java, Movie Rental App"},
+  {"name":"Nick Abbott", "location":"Soldiers", "progress":"pset 6", "photo":"nick_abbott.jpg", "project":"Java, Job Alert App"},
   {"name":"Peter Downs", "location":"Library", "progress":"pset 7", "photo":"peter_downs.jpg", "project":""},
   {"name":"Kim Drussel", "location":"Library", "progress":"pset 7", "photo":"kim_drussel.jpg", "project":""},
   {"name":"Tim Mcgrail", "location":"Library", "progress":"pset 6", "photo":"tim_mcgrail.jpg", "project":"Java"},
